@@ -2,7 +2,7 @@
 // an array 
 #include <bits/stdc++.h> 
 using namespace std; 
-abrar
+
 // Prints an element such than all elements on left 
 // are smaller and all elements on right are greater. 
 int FindElement(int A[], int n) 
